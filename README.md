@@ -74,15 +74,6 @@ Most recently I was a **Cyber Security Intern at truID** (National Science & Tec
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" alt="HTML">
 </p>
 
----
-
-### 📊 GitHub Activity
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com/?user=Real-Mug&theme=tokyonight&timezone=Asia%2FKarachi" alt="GitHub Streak" />
-</p>
-
----
 
 <p align="center">
   <i>"Learn how it breaks, then build it so it doesn't."</i><br>
